@@ -1,1 +1,1 @@
-# Extension-Power-Socket-with-a-Timer
+# Smart-Extension-Socket
