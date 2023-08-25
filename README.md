@@ -1,7 +1,8 @@
 
 # Smart Extension Socket
-![WhatsApp Image 2023-08-25 at 17 52 38](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/ff357493-b178-405b-8034-4000a5f1cb87)
 
+
+![thyyju](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/16541cbe-d497-4e3d-a4e1-6a3dd8a28221)
 
 
 
@@ -11,7 +12,7 @@ In a world where energy demands are on the rise, and energy costs continue to es
 
 ## Project Overview
 The "Smart Extension Socket" is designed to tackle these energy conservation challenges. It comprises two main components: the power socket itself and an LCD display with buttons for user interaction. The project followed a systematic development process, starting with simulation in Proteus, microcontroller programming, component selection, and hardware design
-![Screenshot 2023-08-25 174823](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/1fc5c49b-dd04-4186-851c-bec4bd96838f)
+
 
 
 
@@ -53,8 +54,9 @@ The "Smart Extension Socket" is designed to tackle these energy conservation cha
 **3D Enclosure Design:** The enclosure design was done in SolidWorks, resulting in a 3D enclosure that houses the PCB and components securely. Fasteners were used to connect the top and bottom parts.
 ![Screenshot 2023-08-25 174726](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/52b361e2-0eaf-4219-8cb3-8c304825245e)
 
+![Screenshot 2023-08-25 174823](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/3fa180c8-0239-48bd-b6bf-1f72768fd03b)
 
-![Screenshot 2023-08-25 174814](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/f2fc3051-e11d-43a7-a1a3-190c5d1d3234)
+
 
 ## Results and Discussion
 **Prototype Testing:** The breadboard prototype underwent rigorous testing, with the LCD display, buttons, and menu system working seamlessly. Minor issues, such as a buzzer problem, were resolved by adding a capacitor.
