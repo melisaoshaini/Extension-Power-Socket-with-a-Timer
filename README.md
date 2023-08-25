@@ -8,6 +8,9 @@
 In a world where energy demands are on the rise, and energy costs continue to escalate, the "Smart Extension Socket" project was born out of necessity. This need for energy conservation is particularly pressing in Sri Lanka, where economic crises and shortages of fuel and energy resources compound the issue. Electricity has become an essential part of modern life, powering our daily routines. However, our busy lifestyles sometimes cause us to forget to switch off devices, leading to energy wastage and higher electricity bills. Moreover, supplying power to electronic devices beyond their required time can lead to damage, making it essential to address this problem.
 ## Project Overview
 The "Smart Extension Socket" is designed to tackle these energy conservation challenges. It comprises two main components: the power socket itself and an LCD display with buttons for user interaction. The project followed a systematic development process, starting with simulation in Proteus, microcontroller programming, component selection, and hardware design
+![Screenshot 2023-08-25 174823](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/1fc5c49b-dd04-4186-851c-bec4bd96838f)
+
+
 
 ## Features
 ### Power Socket Features
@@ -37,10 +40,17 @@ The "Smart Extension Socket" is designed to tackle these energy conservation cha
 
 **Power Consumption:** The extension power socket has a minimal power consumption of 2W, with options to disable the timer and display when not in use.
 
+![Uploading Screenshot 2023-08-25 174715.png…]()
+
+
 ## PCB and Enclosure Design
 **PCB Design:** The PCB design was meticulously created using Altium Designer, ensuring an efficient and compact layout. Power lines were appropriately routed for safety.
 
 **3D Enclosure Design:** The enclosure design was done in SolidWorks, resulting in a 3D enclosure that houses the PCB and components securely. Fasteners were used to connect the top and bottom parts.
+![Screenshot 2023-08-25 174726](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/52b361e2-0eaf-4219-8cb3-8c304825245e)
+
+
+![Screenshot 2023-08-25 174814](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/f2fc3051-e11d-43a7-a1a3-190c5d1d3234)
 
 ## Results and Discussion
 **Prototype Testing:** The breadboard prototype underwent rigorous testing, with the LCD display, buttons, and menu system working seamlessly. Minor issues, such as a buzzer problem, were resolved by adding a capacitor.
