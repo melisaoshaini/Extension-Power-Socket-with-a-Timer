@@ -1,5 +1,5 @@
 
-# Smart Extension Switch
+# Smart Extension Socket
 
 
 
