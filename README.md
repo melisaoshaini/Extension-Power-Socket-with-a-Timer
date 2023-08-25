@@ -1,11 +1,14 @@
 
 # Smart Extension Socket
+![WhatsApp Image 2023-08-25 at 17 52 38](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/ff357493-b178-405b-8034-4000a5f1cb87)
+
 
 
 
 
 ## Introduction
 In a world where energy demands are on the rise, and energy costs continue to escalate, the "Smart Extension Socket" project was born out of necessity. This need for energy conservation is particularly pressing in Sri Lanka, where economic crises and shortages of fuel and energy resources compound the issue. Electricity has become an essential part of modern life, powering our daily routines. However, our busy lifestyles sometimes cause us to forget to switch off devices, leading to energy wastage and higher electricity bills. Moreover, supplying power to electronic devices beyond their required time can lead to damage, making it essential to address this problem.
+
 ## Project Overview
 The "Smart Extension Socket" is designed to tackle these energy conservation challenges. It comprises two main components: the power socket itself and an LCD display with buttons for user interaction. The project followed a systematic development process, starting with simulation in Proteus, microcontroller programming, component selection, and hardware design
 ![Screenshot 2023-08-25 174823](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/1fc5c49b-dd04-4186-851c-bec4bd96838f)
@@ -40,7 +43,8 @@ The "Smart Extension Socket" is designed to tackle these energy conservation cha
 
 **Power Consumption:** The extension power socket has a minimal power consumption of 2W, with options to disable the timer and display when not in use.
 
-![Uploading Screenshot 2023-08-25 174715.png…]()
+![Screenshot 2023-08-25 174715](https://github.com/melisaoshaini/Smart-Extension-Socket/assets/129177431/6ea04e50-60ce-4242-8a73-e9f7a55a3485)
+
 
 
 ## PCB and Enclosure Design
